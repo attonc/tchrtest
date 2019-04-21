@@ -1,0 +1,10 @@
+/home/catton/Projects/TcHrTest/TcHrTest/bin/Debug/netcoreapp2.0/TcHrTest.deps.json
+/home/catton/Projects/TcHrTest/TcHrTest/bin/Debug/netcoreapp2.0/TcHrTest.runtimeconfig.json
+/home/catton/Projects/TcHrTest/TcHrTest/bin/Debug/netcoreapp2.0/TcHrTest.runtimeconfig.dev.json
+/home/catton/Projects/TcHrTest/TcHrTest/bin/Debug/netcoreapp2.0/TcHrTest.dll
+/home/catton/Projects/TcHrTest/TcHrTest/bin/Debug/netcoreapp2.0/TcHrTest.pdb
+/home/catton/Projects/TcHrTest/TcHrTest/obj/Debug/netcoreapp2.0/TcHrTest.csproj.CoreCompileInputs.cache
+/home/catton/Projects/TcHrTest/TcHrTest/obj/Debug/netcoreapp2.0/TcHrTest.AssemblyInfoInputs.cache
+/home/catton/Projects/TcHrTest/TcHrTest/obj/Debug/netcoreapp2.0/TcHrTest.AssemblyInfo.cs
+/home/catton/Projects/TcHrTest/TcHrTest/obj/Debug/netcoreapp2.0/TcHrTest.dll
+/home/catton/Projects/TcHrTest/TcHrTest/obj/Debug/netcoreapp2.0/TcHrTest.pdb
